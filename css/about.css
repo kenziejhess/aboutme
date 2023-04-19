@@ -1,0 +1,33 @@
+body {
+  background-color: gray;
+}
+
+.nav-bar {
+  font-family: "Abel", sans-serif;
+  color: gold;
+}
+
+.Family {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: left;
+}
+
+.Patagonia {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.parker {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.tableauPlaceholder {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+}
